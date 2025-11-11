@@ -5,7 +5,7 @@
 💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Visionário em Tecnologia**
 
 Sou um programador apaixonado por tecnologia, segurança da informação e aprendizado contínuo.  
-Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláveis e eficientes — transformando ideias em código que faz a diferença.
+Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláveis e eficientes - transformando ideias em código que faz a diferença.
 
 ---
 
