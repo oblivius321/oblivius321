@@ -43,10 +43,23 @@ Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláve
 - 🌐 Conhecimentos em redes e sistemas Linux  
 
 
-## 📄 Meu Currículo  
-<a href="https://github.com/oblivius321/oblivius321/raw/main/curriculo%20matheus.pdf" download>
-  <img src="https://img.shields.io/badge/%F0%9F%93%9D%20Baixar%20Curr%C3%ADculo-blue?style=for-the-badge" alt="Baixar Currículo">
-</a>
+## 📄 Meus Currículos
+
+
+
+<p align="center">
+  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculo%20matheus.pdf" download>
+    <img src="https://img.shields.io/badge/🇧🇷%20Portugu%C3%AAs-blue?style=for-the-badge" alt="Currículo em Português">
+  </a>
+  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculum%20matheus.pdf" download>
+    <img src="https://img.shields.io/badge/🇺🇸%20English-red?style=for-the-badge" alt="Curriculum in English">
+  </a>
+</p>
+
+> 💡 *Baixe o currículo no idioma de sua preferência!*
+
+
+  
 
 ## 📈 Estatísticas GitHub
 <img align="right" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFiaGxja2x3OXowejhrczFjdWt0cHV4OTJzOHYyZm11dHA2ZTJncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
