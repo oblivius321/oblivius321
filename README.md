@@ -8,7 +8,7 @@
 
 Sou desenvolvedor apaixonado por tecnologia, segurança da informação e por entender **como as coisas realmente funcionam** — do código ao sistema operacional, da lógica à filosofia.
 
-Curto resolver problemas reais, criar soluções escaláveis e escrever código que não só funciona, mas **faz sentido**.
+Curto resolver problemas reais, criar soluções escaláveis e escrever código limpo, direto e com propósito.
 
 </td>
     <td width="35%" align="center">
@@ -26,8 +26,8 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
   - Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**
   - Integração entre **front-end** e **back-end**
   - Participação em *code reviews*, *sprints* e rituais **Scrum**
-- 🧠 Interesse forte em **automação, segurança digital, redes e DevOps**
-- ⚙️ Curioso por natureza — entender o *porquê* vale mais que só fazer funcionar
+- 🧠 Interesse em **automação, segurança digital, redes e DevOps**
+- ⚙️ Curioso por natureza — entender o *porquê* vale mais do que só fazer funcionar
 
 ---
 
@@ -50,11 +50,11 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oblivius321&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oblivius321&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -78,8 +78,6 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
     <img src="https://img.shields.io/badge/🇺🇸%20English-red?style=for-the-badge" />
   </a>
 </p>
-
-> 💡 *Escolha o idioma e bora conversar.*
 
 ---
 
