@@ -1,17 +1,18 @@
 <table>
   <tr>
-    <td width="70%">
+    <td width="65%">
 
-# 👋 Olá, eu sou o Matheus Felipe!
+# 👋 Fala, eu sou o Matheus Felipe
 
-💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Visionário em Tecnologia**
+💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Dev em evolução constante**
 
-Sou um programador apaixonado por tecnologia, segurança da informação e aprendizado contínuo.  
-Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláveis e eficientes – transformando ideias em código que faz a diferença.
+Sou desenvolvedor apaixonado por tecnologia, segurança da informação e por entender **como as coisas realmente funcionam** — do código ao sistema operacional, da lógica à filosofia.
+
+Curto resolver problemas reais, criar soluções escaláveis e escrever código que não só funciona, mas **faz sentido**.
 
 </td>
-    <td width="30%">
-      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFiaGxja2x3OXowejhrczFjdWt0cHV4OTJzOHYyZm11dHA2ZTJncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="230" />
+    <td width="35%" align="center">
+      <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWFiaGxja2x3OXowejhrczFjdWt0cHV4OTJzOHYyZm11dHA2ZTJncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="220" />
     </td>
   </tr>
 </table>
@@ -20,60 +21,65 @@ Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláve
 
 ## 🚀 Sobre mim
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **UFBRA**  
-- 💼 Trabalhei como **Estagiário de Desenvolvimento Web** na *Athena Office*  
-  → Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**  
-  → Suporte à integração entre *front-end* e *back-end*  
-  → Participação ativa em revisões de código e *sprints* com **metodologia ágil (Scrum)**
-- 🧠 Interessado em **automação, segurança digital, devops e redes**
-- ⚙️ Curioso por entender o “porquê das coisas” — da filosofia à lógica do sistema operacional
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — **UFBRA**
+- 💼 Experiência como **Estagiário de Desenvolvimento Web** na *Athena Office*
+  - Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**
+  - Integração entre **front-end** e **back-end**
+  - Participação em *code reviews*, *sprints* e rituais **Scrum**
+- 🧠 Interesse forte em **automação, segurança digital, redes e DevOps**
+- ⚙️ Curioso por natureza — entender o *porquê* vale mais que só fazer funcionar
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-**Linguagens:**  
-🐍 Python · 💛 JavaScript · ⚙️ C#
+### 👨‍💻 Linguagens
+🐍 Python &nbsp;|&nbsp; 💛 JavaScript &nbsp;|&nbsp; ⚙️ C#
 
-**Frameworks e Bibliotecas:**  
-🌀 React · 🕸️ Django · 🧩 Angular · 🧱 ASP.NET
+### 🧩 Frameworks & Bibliotecas
+🌀 React &nbsp;|&nbsp; 🕸️ Django &nbsp;|&nbsp; 🧩 Angular &nbsp;|&nbsp; 🧱 ASP.NET
 
-**Bancos de Dados:**  
-🗄️ SQL · MySQL · PostgreSQL
+### 🗄️ Bancos de Dados
+🗃️ SQL &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL
 
-**Ferramentas e Plataformas:**  
-🐳 Docker · 🧰 Git · 📬 Postman · 🐧 Linux
-
----
-
-## 📚 Certificações e Cursos
-
-- 🧠 **SFC — Scrum Fundamentals Certified**  
-- 💾 **Técnico em Hardware** — Colégio 2001  
-- 🧩 Montagem e manutenção de computadores  
-- 🌐 Conhecimentos em redes e sistemas Linux  
-
----
-
-## 📄 Meus Currículos
-
-<p align="center">
-  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculo%20matheus.pdf" download>
-    <img src="https://img.shields.io/badge/🇧🇷%20Portugu%C3%AAs-blue?style=for-the-badge" alt="Currículo em Português">
-  </a>
-  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculum%20matheus.pdf" download>
-    <img src="https://img.shields.io/badge/🇺🇸%20English-red?style=for-the-badge" alt="Curriculum in English">
-  </a>
-</p>
-
-> 💡 *Baixe o currículo no idioma de sua preferência!*
+### ⚙️ Ferramentas & Plataformas
+🐳 Docker &nbsp;|&nbsp; 🧰 Git &nbsp;|&nbsp; 📬 Postman &nbsp;|&nbsp; 🐧 Linux
 
 ---
 
 ## 📈 Estatísticas GitHub
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=oblivius321&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=oblivius321&show_icons=true&theme=radical&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical&cache_seconds=1800" />
+</p>
+
+---
+
+## 📚 Certificações & Formação Complementar
+
+- 🧠 **SFC — Scrum Fundamentals Certified**
+- 💾 **Técnico em Hardware** — Colégio 2001
+- 🧩 Montagem e manutenção de computadores
+- 🌐 Fundamentos sólidos em **redes** e **Linux**
+
+---
+
+## 📄 Currículos
+
+<p align="center">
+  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculo%20matheus.pdf" download>
+    <img src="https://img.shields.io/badge/🇧🇷%20Português-blue?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculum%20matheus.pdf" download>
+    <img src="https://img.shields.io/badge/🇺🇸%20English-red?style=for-the-badge" />
+  </a>
+</p>
+
+> 💡 *Escolha o idioma e bora conversar.*
 
 ---
 
@@ -85,12 +91,11 @@ Atuo com mentalidade analítica e criativa, buscando sempre soluções escaláve
 
 ---
 
-## 🌟 Um pouco de mim
+## 🌌 Filosofia pessoal
 
-> “Entre códigos e conexões, busco entender o mundo e transformá-lo. Um commit por vez, um debug de cada vez.”  
-> — Matheus Felipe
+> “Entre códigos, redes e perguntas difíceis, sigo construindo soluções —  
+> um commit por vez, um bug a menos por dia.”
 
 ---
 
-⭐ Se curtiu algum projeto meu, não esquece de deixar uma estrela — isso ajuda muito 😄
-
+⭐ Curtiu algum projeto? Uma estrela ajuda mais do que parece.
