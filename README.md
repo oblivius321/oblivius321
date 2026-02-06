@@ -50,11 +50,8 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
 ## 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=oblivius321&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oblivius321&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=radical"/>
 </p>
 
 ---
