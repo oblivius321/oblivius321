@@ -1,12 +1,12 @@
 <table>
   <tr>
     <td width="65%">
-
+    
 # 👋 Fala, eu sou o Matheus Felipe
 
-💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Dev em evolução constante**
-
-Sou desenvolvedor apaixonado por tecnologia, segurança da informação e por entender **como as coisas realmente funcionam** — do código ao sistema operacional, da lógica à filosofia.
+💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Dev em desenvolvimento**
+    
+Sou desenvolvedor apaixonado por tecnologia, segurança da informação e por entender **como as coisas realmente funcionam**. Do código ao sistema operacional, da lógica à filosofia.
 
 Curto resolver problemas reais, criar soluções escaláveis e escrever código limpo, direto e com propósito.
 
@@ -27,11 +27,9 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
   - Integração entre **front-end** e **back-end**
   - Participação em *code reviews*, *sprints* e rituais **Scrum**
 - 🧠 Interesse em **automação, segurança digital, redes e DevOps**
-- ⚙️ Curioso por natureza — entender o *porquê* vale mais do que só fazer funcionar
+- ⚙️ Curioso por natureza, entender o **porquê** vale mais do que só fazer funcionar
 
 ---
-
-## 🛠️ Tecnologias & Ferramentas
 
 ### 👨‍💻 Linguagens
 🐍 Python &nbsp;|&nbsp; 💛 JavaScript &nbsp;|&nbsp; ⚙️ C#
