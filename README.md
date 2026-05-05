@@ -1,14 +1,20 @@
-**<table>
+<table>
   <tr>
     <td width="65%">
     
-# 👋 Fala, eu sou o Matheus Felipe
+# 👋 Matheus Felipe
 
-💻 **Desenvolvedor Web | Cybersecurity Enthusiast | Dev em desenvolvimento**
-    
-Sou desenvolvedor apaixonado por tecnologia, segurança da informação e por entender **como as coisas realmente funcionam**. Do código ao sistema operacional, da lógica à filosofia.
+💻 **Backend Developer | Python • APIs • Systems | Infrastructure & Cybersecurity**
 
-Curto resolver problemas reais, criar soluções escaláveis e escrever código limpo, direto e com propósito.
+Sou desenvolvedor focado em backend e construção de sistemas, com experiência prática em ambientes reais de produção envolvendo redes, infraestrutura e desenvolvimento de aplicações.
+
+Atuo na resolução de problemas técnicos complexos e na criação de soluções eficientes, com visão que vai além do código — abrangendo arquitetura, comunicação entre serviços e comportamento do sistema em ambiente real.
+
+Tenho experiência com desenvolvimento de APIs, bancos de dados relacionais, ambientes Linux e troubleshooting de infraestrutura, o que me permite construir soluções mais robustas, seguras e escaláveis.
+
+Desenvolvi uma solução interna de **MDM (Mobile Device Management)** para gerenciamento de dispositivos corporativos, aplicando conceitos de controle, automação, monitoramento e segurança.
+
+Busco evoluir continuamente em engenharia de software e segurança de aplicações, com foco em sistemas resilientes e bem estruturados.
 
 </td>
     <td width="35%" align="center">
@@ -19,68 +25,78 @@ Curto resolver problemas reais, criar soluções escaláveis e escrever código 
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 Experience
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** — **UFBRA**
-- 💼 Experiência como **Estagiário de Desenvolvimento Web** na *Athena Office*
-  - Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**
-  - Integração entre **front-end** e **back-end**
-  - Participação em *code reviews*, *sprints* e rituais **Scrum**
-- 🧠 Interesse em **automação, segurança digital, redes e DevOps**
-- ⚙️ Curioso por natureza, entender o **porquê** vale mais do que só fazer funcionar
+### 🏢 PBPLAST — IT Support & Network Infrastructure
 
----
+- Suporte técnico e manutenção de infraestrutura de rede corporativa  
+- Diagnóstico e resolução de falhas de conectividade e sistemas  
+- Organização e controle de IPs e ativos de rede  
+- Aplicação de boas práticas de segurança em ambiente corporativo  
+- Desenvolvimento de solução interna de **MDM (Mobile Device Management)** para controle e gerenciamento de dispositivos  
 
-### 👨‍💻 Linguagens
-🐍 Python &nbsp;|&nbsp; 💛 JavaScript &nbsp;|&nbsp; ⚙️ C#
+### 💻 Athena Office — Web Development Intern
 
-### 🧩 Frameworks & Bibliotecas
-🌀 React &nbsp;|&nbsp; 🕸️ Django &nbsp;|&nbsp; 🧩 Angular &nbsp;|&nbsp; 🧱 ASP.NET
-
-### 🗄️ Bancos de Dados
-🗃️ SQL &nbsp;|&nbsp; MySQL &nbsp;|&nbsp; PostgreSQL
-
-### ⚙️ Ferramentas & Plataformas
-🐳 Docker &nbsp;|&nbsp; 🧰 Git &nbsp;|&nbsp; 📬 Postman &nbsp;|&nbsp; 🐧 Linux
+- Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**  
+- Integração entre front-end e back-end  
+- Participação em code reviews e sprints com metodologia ágil (Scrum)  
+- Otimização de performance e melhoria contínua de funcionalidades  
 
 ---
 
-## 📚 Certificações & Formação Complementar
+## 🚀 Highlight Project
 
-- 🧠 **SFC — Scrum Fundamentals Certified**
-- 💾 **Técnico em Hardware** — Colégio 2001
-- 🧩 Montagem e manutenção de computadores
-- 🌐 Fundamentos sólidos em **redes** e **Linux**
+### 📱 MDM — Mobile Device Management System
 
----
+Sistema desenvolvido para gerenciamento de dispositivos corporativos em ambiente real.
 
-## 📄 Currículos
+**Technical highlights:**
 
-<p align="center">
-  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculo%20matheus.pdf" download>
-    <img src="https://img.shields.io/badge/🇧🇷%20Português-blue?style=for-the-badge" />
-  </a>
-  <a href="https://github.com/oblivius321/oblivius321/raw/main/curriculum%20matheus.pdf" download>
-    <img src="https://img.shields.io/badge/🇺🇸%20English-red?style=for-the-badge" />
-  </a>
-</p>
+- Backend em **Python**
+- Desenvolvimento de APIs para controle de dispositivos
+- Monitoramento e coleta de telemetria
+- Aplicação de políticas corporativas
+- Integração com banco de dados relacional
+- Abordagem voltada a segurança, automação e controle de ambiente
 
 ---
 
-## 📫 Contato
+## 🧠 Core Stack
 
-📧 **E-mail:** [matheusfelipe3839@gmail.com](mailto:matheusfelipe3839@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/matheus-felipe-silva-de-moraiss](https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss/)  
-📱 **WhatsApp:** [Clique aqui](https://wa.me/qr/H75E7GA3E42WP1)
+### Backend
+Python • FastAPI • Django • Node.js • REST APIs
+
+### Frontend
+React • Angular
+
+### Databases
+PostgreSQL • MySQL • SQL
+
+### Infrastructure
+Linux • Docker • Networking • System Troubleshooting
 
 ---
 
-## 🌌 Filosofia pessoal
+## 📚 Education & Certifications
 
-> “Entre códigos, redes e perguntas difíceis, sigo construindo soluções —  
-> um commit por vez, um bug a menos por dia.”
+- 🎓 Análise e Desenvolvimento de Sistemas — UFBRA  
+- 🧠 Scrum Fundamentals Certified (SFC)  
+- 🌐 Introdução à Cibersegurança — Cisco / PUC Minas  
+- 🏆 Aprovado em processo da Cisco (Cybersecurity)  
 
 ---
 
-⭐ Curtiu algum projeto? Uma estrela ajuda mais do que parece.
-**
+## 📫 Contact
+
+📧 matheusfelipe3839@gmail.com  
+🔗 https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss/  
+
+---
+
+## ⚡ Mindset
+
+> “Systems are not just built — they are understood, structured and evolved.”
+
+---
+
+⭐ If you find something interesting, feel free to explore the projects.
