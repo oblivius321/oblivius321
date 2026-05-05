@@ -82,7 +82,7 @@ Linux • Docker • Networking • System Troubleshooting
 - 🎓 Análise e Desenvolvimento de Sistemas — UFBRA  
 - 🧠 Scrum Fundamentals Certified (SFC)  
 - 🌐 Introdução à Cibersegurança — Cisco / PUC Minas  
-- 🏆 Aprovado em processo da Cisco (Cybersecurity)  
+- 🏆 Aprovado em processo da Cisco em parceria com a escon do exército brasileiro (Cybersecurity)   
 
 ---
 
