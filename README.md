@@ -4,17 +4,19 @@
     
 # 👋 Matheus Felipe
 
-💻 **Backend Developer | Python • APIs • Systems | Infrastructure & Cybersecurity**
+💻 **Backend Developer Jr. | Python • APIs • Linux • Networks • Cybersecurity**
 
-Sou desenvolvedor focado em backend e construção de sistemas, com experiência prática em ambientes reais de produção envolvendo redes, infraestrutura e desenvolvimento de aplicações.
+Sou desenvolvedor em início de carreira com experiência prática em **backend, infraestrutura de TI e redes corporativas**.
 
-Atuo na resolução de problemas técnicos complexos e na criação de soluções eficientes, com visão que vai além do código — abrangendo arquitetura, comunicação entre serviços e comportamento do sistema em ambiente real.
+Atuo com **Python, TypeScript, APIs REST, PostgreSQL, Redis, Linux** e troubleshooting em ambientes reais, conectando desenvolvimento, infraestrutura e segurança para resolver problemas técnicos de forma prática.
 
-Tenho experiência com desenvolvimento de APIs, bancos de dados relacionais, ambientes Linux e troubleshooting de infraestrutura, o que me permite construir soluções mais robustas, seguras e escaláveis.
+Desenvolvi de forma autônoma uma solução interna de **MDM (Mobile Device Management)** para gerenciamento de aproximadamente **80 dispositivos Android corporativos**, integrando frontend, backend, banco de dados, telemetria e boas práticas de segurança.
 
-Desenvolvi uma solução interna de **MDM (Mobile Device Management)** para gerenciamento de dispositivos corporativos, aplicando conceitos de controle, automação, monitoramento e segurança.
+Busco evoluir continuamente em **engenharia de software, infraestrutura, segurança da informação e ethical hacking**, com foco em sistemas robustos, seguros e aplicáveis ao mundo real.
 
-Busco evoluir continuamente em engenharia de software e segurança de aplicações, com foco em sistemas resilientes e bem estruturados.
+<br>
+
+[![Download CV](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./matheus_cv.pdf)
 
 </td>
     <td width="35%" align="center">
@@ -27,20 +29,26 @@ Busco evoluir continuamente em engenharia de software e segurança de aplicaçõ
 
 ## 🚀 Experience
 
-### 🏢 PBPLAST — IT Support & Network Infrastructure
+### 🏢 PBPLAST — IT Infrastructure & Development Intern  
+**2026 – Present**
 
-- Suporte técnico e manutenção de infraestrutura de rede corporativa  
-- Diagnóstico e resolução de falhas de conectividade e sistemas  
-- Organização e controle de IPs e ativos de rede  
-- Aplicação de boas práticas de segurança em ambiente corporativo  
-- Desenvolvimento de solução interna de **MDM (Mobile Device Management)** para controle e gerenciamento de dispositivos  
+- Technical support and maintenance of corporate network infrastructure  
+- Diagnosis and resolution of connectivity, system and equipment issues  
+- Configuration and support for IP, switches, routers, DNS, DHCP and wired network environments  
+- Work with Linux environments, permissions, internal services and user support  
+- Autonomous development of an internal **MDM system** for approximately **80 corporate Android devices**  
+- Implementation of frontend in **TypeScript**, backend in **Python**, REST APIs, **PostgreSQL**, **Redis** and telemetry  
+- Support for centralized device management and reduction of dependency on external tools  
+- Application of security best practices for endpoints, networks and internal access  
 
-### 💻 Athena Office — Web Development Intern
+### 💻 Athena Office — Web Development  
+**Jun. 2025 – Dec. 2025**
 
-- Desenvolvimento e manutenção de aplicações web com **JavaScript** e **React**  
-- Integração entre front-end e back-end  
-- Participação em code reviews e sprints com metodologia ágil (Scrum)  
-- Otimização de performance e melhoria contínua de funcionalidades  
+- Development of web applications using **JavaScript** and **React**  
+- Integration between frontend, backend and REST APIs  
+- Participation in Scrum routines, code reviews and sprints  
+- Performance optimization and maintenance of applications  
+- Collaboration in technical problem solving  
 
 ---
 
@@ -48,48 +56,55 @@ Busco evoluir continuamente em engenharia de software e segurança de aplicaçõ
 
 ### 📱 MDM — Mobile Device Management System
 
-Sistema desenvolvido para gerenciamento de dispositivos corporativos em ambiente real.
+Internal solution developed autonomously for managing approximately **80 corporate Android devices** in a real environment.
 
 **Technical highlights:**
 
-- Backend em **Python**
-- Desenvolvimento de APIs para controle de dispositivos
-- Monitoramento e coleta de telemetria
-- Aplicação de políticas corporativas
-- Integração com banco de dados relacional
-- Abordagem voltada a segurança, automação e controle de ambiente
+- Frontend in **TypeScript** for device management and visualization dashboard  
+- Backend in **Python** with **FastAPI** and REST APIs  
+- Integration with **PostgreSQL** and **Redis** for persistence, telemetry and performance  
+- Device telemetry, monitoring and control  
+- Corporate policy enforcement and endpoint management  
+- Practical integration between backend, frontend, infrastructure, networking and cybersecurity  
 
 ---
 
 ## 🧠 Core Stack
 
 ### Backend
-Python • FastAPI • Django • Node.js • REST APIs
+Python • FastAPI • REST APIs • SQL
 
 ### Frontend
-React • Angular
+TypeScript • JavaScript • React
 
-### Databases
-PostgreSQL • MySQL • SQL
+### Databases & Cache
+PostgreSQL • MySQL • Redis
 
-### Infrastructure
-Linux • Docker • Networking • System Troubleshooting
+### Infrastructure & Networks
+Linux • Docker • Networking • IP • DNS • DHCP • Switches • Routers • Troubleshooting
+
+### Cybersecurity
+Security Fundamentals • Ethical Hacking • Endpoint Security • Vulnerability Analysis • Security Best Practices
+
+### Practices
+Scrum • Code Review • Technical Documentation
 
 ---
 
 ## 📚 Education & Certifications
 
 - 🎓 Análise e Desenvolvimento de Sistemas — UFBRA  
+- 🌐 Introdução à Cibersegurança — Cisco Networking Academy / PUC Minas  
+- 🏆 Programa CiberEducação Cisco Brasil — Trilha Ethical Hacking e Cibersegurança, em parceria com a EsCom — Escola de Comunicações do Exército Brasileiro  
 - 🧠 Scrum Fundamentals Certified (SFC)  
-- 🌐 Introdução à Cibersegurança — Cisco / PUC Minas  
-- 🏆 Aprovado em processo da Cisco em parceria com a escon do exército brasileiro (Cybersecurity)   
 
 ---
 
 ## 📫 Contact
 
-📧 matheusfelipe3839@gmail.com  
-🔗 https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss/  
+📧 **Email:** matheusfelipe3839@gmail.com  
+🔗 **LinkedIn:** [matheus-felipe-silva-de-moraiss](https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss/)  
+💻 **GitHub:** [oblivius321](https://github.com/oblivius321)
 
 ---
 
@@ -99,4 +114,4 @@ Linux • Docker • Networking • System Troubleshooting
 
 ---
 
-⭐ If you find something interesting, feel free to explore the projects.
+⭐ If you find something interesting, feel free to explore my projects.
