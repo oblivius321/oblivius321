@@ -47,7 +47,7 @@ I particularly enjoy turning **real operational problems into software products*
 
 ### Development
 
-`Python` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `FastAPI` · `REST APIs` · `WebSockets`
+`Python` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `FastAPI` · `REST APIs` · `WebSockets` · `Kotlin`
 
 ### Data
 
@@ -55,7 +55,7 @@ I particularly enjoy turning **real operational problems into software products*
 
 ### DevOps & Infrastructure
 
-`Docker` · `Docker Compose` · `Linux` · `Git` · `GitHub` · `VPS` · `Networking` · `CI/CD`
+`Docker` · `Docker Compose` · `Linux` · `Git` · `GitHub` · `VPS` · `Networking` · `CI/CD` · `Jenkins`
 
 ### Observability
 
