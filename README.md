@@ -1,14 +1,18 @@
 <div align="center">
 
-# Matheus Felipe
+  <img src="./assets/banner.svg" width="100%" alt="Matheus Felipe — Banner" />
 
-### Full Stack Developer · DevOps · Cybersecurity
+  <br/><br/>
 
-Building software from **application architecture to infrastructure**.
+  # Matheus Felipe
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oblivius321)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfelipe3839@gmail.com)
+  ### Full Stack Developer · DevOps · Cybersecurity
+
+  Building software from **application architecture to infrastructure**.
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-felipe-silva-de-moraiss)
+  [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oblivius321)
+  [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusfelipe3839@gmail.com)
 
 </div>
 
@@ -139,3 +143,12 @@ The MDM architecture separates device administration from the operational applic
               │    GIM Kiosk    │
               │ Operational App │
               └─────────────────┘
+```
+
+---
+
+<p align="center">
+  <a href="https://github.com/oblivius321">
+    <img src="./assets/rodape.svg" width="100%" alt="Matheus Felipe — Rodapé" />
+  </a>
+</p>
