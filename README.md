@@ -3,9 +3,6 @@
   <img src="./assets/banner.svg" width="100%" alt="Matheus Felipe — Banner" />
 
   <br/><br/>
-
-  # Matheus Felipe
-
   ### Full Stack Developer · DevOps · Cybersecurity
 
   Building software from **application architecture to infrastructure**.
