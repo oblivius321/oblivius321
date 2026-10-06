@@ -64,15 +64,6 @@ I particularly enjoy turning **real operational problems into software products*
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=oblivius321&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Matheus Felipe GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=oblivius321&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</p>
-
----
-
 # Featured Project
 
 ## GIM — Gestão de Inventário e Mobilidade
